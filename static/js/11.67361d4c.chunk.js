@@ -1,0 +1,2 @@
+(this.webpackJsonpasimexamappclient=this.webpackJsonpasimexamappclient||[]).push([[11],{408:function(e,a,n){"use strict";n.r(a),n.d(a,"default",(function(){return i}));var t=n(0),u=n.n(t),r=n(13);function i(){return u.a.createElement("div",null,u.a.createElement(r.a,null),u.a.createElement("h1",null,"You are not authorized as user"))}}}]);
+//# sourceMappingURL=11.67361d4c.chunk.js.map
